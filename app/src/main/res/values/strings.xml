@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">currency-converter</string>
+    <string name="apiURL">https://www.currency-api.com</string>
+</resources>
